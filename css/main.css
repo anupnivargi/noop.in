@@ -1,0 +1,43 @@
+body{
+  font-family: 'Roboto Slab', serif; font-weight: 300;
+}
+
+h1, h2, h3, h4, h6 {
+  font-family: inherit;
+}
+
+.title a{
+  font-size: 40px;
+  color: #212121;
+  font-weight: 300;
+}
+
+.post-entry{
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+.post-title{
+  font-size: 25px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+}
+
+.list-inline{
+  font-size: 18px;
+}
+
+.content{
+  font-size: 20px;
+}
+
+#disqus_thread{
+}
+
+
+@media (min-width: 1200px) {
+  .container {
+    width: 940px;
+    margin-top: 30px;
+  }
+}
