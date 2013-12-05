@@ -3,4 +3,4 @@ encoding: "UTF-8"
 timezone: "Mumbai"
 pygments: true
 exclude: [".ruby-version", ".ruby-gemset", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "Procfile", "vendor"]
-permalink: /:year/:month/:title
+permalink: /:year/:month/:title.html
